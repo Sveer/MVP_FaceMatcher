@@ -27,9 +27,8 @@ namespace FaceCaller
         }
 
 
-        const string subscriptionKey = "13hc77781f7e4b19b5fcdd72a8df7156";
+        const string subscriptionKey = "910cfff45acb4c558848d0dc6d98835e";
         const string personGroupName = "mvplist";
-        //const string uriBase = "https://westcentralus.api.cognitive.microsoft.com/face/v1.0/detect";
         Microsoft.ProjectOxford.Face.FaceServiceClient _client;
 
         public FaceCaller()
