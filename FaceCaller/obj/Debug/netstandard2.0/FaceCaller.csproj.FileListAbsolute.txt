@@ -1,0 +1,9 @@
+C:\Users\ALyubko\Source\Repos\WebApplication9\FaceCaller\bin\Debug\netstandard2.0\FaceCaller.deps.json
+C:\Users\ALyubko\Source\Repos\WebApplication9\FaceCaller\bin\Debug\netstandard2.0\FaceCaller.dll
+C:\Users\ALyubko\Source\Repos\WebApplication9\FaceCaller\obj\Debug\netstandard2.0\FaceCaller.csprojResolveAssemblyReference.cache
+C:\Users\ALyubko\Source\Repos\WebApplication9\FaceCaller\obj\Debug\netstandard2.0\FaceCaller.csproj.CoreCompileInputs.cache
+C:\Users\ALyubko\Source\Repos\WebApplication9\FaceCaller\obj\Debug\netstandard2.0\FaceCaller.AssemblyInfoInputs.cache
+C:\Users\ALyubko\Source\Repos\WebApplication9\FaceCaller\obj\Debug\netstandard2.0\FaceCaller.AssemblyInfo.cs
+C:\Users\ALyubko\Source\Repos\WebApplication9\FaceCaller\bin\Debug\netstandard2.0\FaceCaller.pdb
+C:\Users\ALyubko\Source\Repos\WebApplication9\FaceCaller\obj\Debug\netstandard2.0\FaceCaller.dll
+C:\Users\ALyubko\Source\Repos\WebApplication9\FaceCaller\obj\Debug\netstandard2.0\FaceCaller.pdb

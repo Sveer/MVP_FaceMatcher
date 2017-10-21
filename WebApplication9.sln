@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication9", "WebApplication9\WebApplication9.csproj", "{FDFEA57A-4B98-4625-8FED-1F5169778D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceCaller", "FaceCaller\FaceCaller.csproj", "{76D9EC8C-D45F-4B1C-9CA5-934CAA18507E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFEA57A-4B98-4625-8FED-1F5169778D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFEA57A-4B98-4625-8FED-1F5169778D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFEA57A-4B98-4625-8FED-1F5169778D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFEA57A-4B98-4625-8FED-1F5169778D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D9EC8C-D45F-4B1C-9CA5-934CAA18507E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D9EC8C-D45F-4B1C-9CA5-934CAA18507E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D9EC8C-D45F-4B1C-9CA5-934CAA18507E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D9EC8C-D45F-4B1C-9CA5-934CAA18507E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548227DB-CEA0-4F1E-9A63-0C30ED85FD02}
+	EndGlobalSection
+EndGlobal
